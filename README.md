@@ -1,2 +1,2 @@
 pip install eth-account
-python bot.py
+RUN python bot.py
